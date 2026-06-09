@@ -115,6 +115,7 @@ I also configured the noncompliance action to immediately mark devices as noncom
 #### Step 3 – Assign and Deploy Compliance Policy
 
 Finally, I assigned the compliance policy to the **Retail_Store_Staff group** and reviewed the configuration before deployment. Once deployed, the policy automatically evaluated enrolled devices against the defined security requirements.
+
 <img width="724" height="575" alt="image" src="https://github.com/user-attachments/assets/d12665ce-cddf-40e4-b691-9761065488f8" />
 
 ### Result
