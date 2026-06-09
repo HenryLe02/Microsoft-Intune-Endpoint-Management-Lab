@@ -56,7 +56,7 @@ Microsoft Intune was implemented to address these requirements and provide a mod
 
 For the complete project report, including all screenshots, configurations, and implementation details, please view the full document below:
 
-📄 [View Full Documentation](./Project%203%20-%20Microsoft%20Intune%20Labs.pdf)
+📄 [View Full Documentation]([./Project%203%20-%20Microsoft%20Intune%20Labs.pdf](https://github.com/HenryLe02/Microsoft-Intune-Endpoint-Management-Lab/blob/main/Project%203%20-Microsoft%20Intune%20Labs.pdf))
 
 ---
 
